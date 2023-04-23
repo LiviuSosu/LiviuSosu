@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am always happy to talk about the "CareerTrack" project.
+
 <!--
 **LiviuSosu/LiviuSosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
