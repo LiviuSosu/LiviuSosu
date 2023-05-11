@@ -6,7 +6,7 @@ Update: the "CareerTrack" and "CareerTrack-FrontEnd" were made private, but:<br 
 ✅ your technical interviewer is ready/open to discuss about my personal work<br />
 ✅ you desire an answer tou your message<br />
 <br />
-then sprecifiy that you agree with the conditiosn above.
+then sprecifiy that you agree with the conditions above.
 
 <!--
 **LiviuSosu/LiviuSosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
