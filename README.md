@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Update: the "CareerTrack" and "CareerTrack-FrontEnd" were made private, but:
-✅ if you are a recruiter
-✅ your technical interviewer is ready/open to discuss about my personal work
-✅ you desire an answer tou your message
-
+Update: the "CareerTrack" and "CareerTrack-FrontEnd" were made private, but:<br />
+✅ if you are a recruiter<br />
+✅ your technical interviewer is ready/open to discuss about my personal work<br />
+✅ you desire an answer tou your message<br />
+<br />
 then sprecifiy that you agree with the conditiosn above.
 
 <!--
