@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am always happy to talk about the "CareerTrack" project.
+Update: the "CareerTrack" and "CareerTrack-FrontEnd" were made private, but:
+✅ if you are a recruiter
+✅ your technical interviewer is ready/open to discuss about my personal work
+✅ you desire an answer tou your message
+
+then sprecifiy that you agree with the conditiosn above.
 
 <!--
 **LiviuSosu/LiviuSosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
