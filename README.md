@@ -3,6 +3,7 @@
 Update: the "CareerTrack" and "CareerTrack-FrontEnd" were made private, but if you are a recruiter and:<br />
 <br />
 ✅ your technical interviewer is ready/open to discuss about my personal work<br />
+✅ you agree that I will not do any live/home coding to "prove" my competencies<br />
 ✅ you desire an answer to your message<br />
 <br />
 then sprecifiy that you agree with the conditions above.
