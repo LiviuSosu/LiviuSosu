@@ -6,9 +6,10 @@ The repositories are pinned bellow
 <br />
 ◾ CareerTrack: .NET Web api<br />
 ◾ CareerTrack-FrontEnd: front-end written using React and Redux<br />
-You can also check some of my previous work
+<br />
+You can also check some of my previous work<br />
 ◾ [Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/serializingjson.htm) vs [protobuf](https://protobuf.dev/) : here I am comapring the times of serliazing and deselizing using this libraries<br />
-    ▪️ link to the [demo](https://www.youtube.com/watch?v=KNi18e0p7zQ).
+&nbsp;&nbsp;&nbsp;&nbsp;▪️ link to the [demo](https://www.youtube.com/watch?v=KNi18e0p7zQ).
 <br />
 
 
