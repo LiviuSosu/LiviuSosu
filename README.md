@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-Update: the "CareerTrack" and "CareerTrack-FrontEnd" were made private, but if you are a recruiter and:<br />
+For the past years I have worked on the follwing repositories "CareerTrack" and "CareerTrack-FrontEnd", trying to follow the clean-code best practices.<br />
 <br />
-✅ your technical interviewer is ready/open to discuss about my personal work<br />
-✅ you agree that I will not do any live/home coding to "prove" my competencies<br />
-✅ you desire an answer to your message<br />
+The repositories are pinned bellow
 <br />
-then sprecifiy that you agree with the conditions above.
+◾ CareerTrack: .NET Web api<br />
+◾ CareerTrack-FrontEnd: front-end written using React and Redux<br />
+You can also check some of my previous work
+◾ [Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/serializingjson.htm) vs [protobuf](https://protobuf.dev/) : here I am comapring the times of serliazing and deselizing using this libraries<br />
+    ▪️ link to the [demo](https://www.youtube.com/watch?v=KNi18e0p7zQ).
+<br />
+
 
 <!--
 **LiviuSosu/LiviuSosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
