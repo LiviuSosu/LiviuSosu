@@ -8,7 +8,7 @@ The repositories are pinned bellow
 ◾ CareerTrack-FrontEnd: front-end written using React and Redux<br />
 <br />
 You can also check some of my previous work<br />
-◾ [Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/serializingjson.htm) vs [protobuf](https://protobuf.dev/) : here I am comapring the times of serliazing and deselizing using this libraries<br />
+◾ [Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/serializingjson.htm) vs [protobuf](https://protobuf.dev/) : here I am comparing the times of serializing and deserializing using this libraries<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪️ link to the [demo](https://www.youtube.com/watch?v=KNi18e0p7zQ).<br />
 ◾ Medium article about [various ways of implementing Background tasks](https://medium.com/@sosuliviu/lets-talk-about-scheduled-background-tasks-2708b9873941).
 
