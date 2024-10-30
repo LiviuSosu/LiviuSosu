@@ -2,7 +2,7 @@
 
 For the past years, I have worked on the following repositories "CareerTrack" and "CareerTrack-FrontEnd", trying to follow the clean-code best practices. It currently represents my work samples that I consider most representative to illustrate my technical profile.<br />
 <br />
-You may have a look at this [video](https://youtu.be/G_uOU3dFbJE).
+You may have a look at this [video](https://youtu.be/r3cjCAtZkuk).
 The repositories are pinned bellow.
 <br />
 ◾ CareerTrack: .NET Web api<br />
