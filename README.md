@@ -7,7 +7,7 @@ The repositories bellow are private, but I would be happy to present you the cod
 <br />
 ◾ CareerTrack: .NET Web api<br />
 ◾ CareerTrack-FrontEnd: front-end written using React and Redux<br />
-◾ CareerTrack-ApiPublisher: additional project for automatic back-end deployment. [Demo](https://youtu.be/plXVYkUZ5pI)
+◾ CareerTrack-ApiPublisher: additional project for automatic back-end deployment. Feel free to watch the [demo](https://youtu.be/plXVYkUZ5pI)
 <br />
 <br />
 You can also check some of my previous work<br />
