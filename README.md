@@ -7,6 +7,7 @@ The repositories bellow are private, but I would be happy to present you the cod
 <br />
 ◾ CareerTrack: .NET Web api<br />
 ◾ CareerTrack-FrontEnd: front-end written using React and Redux<br />
+◾ CareerTrack-ApiPublisher: additional project for automatic back-end deployment. [Demo](https://youtu.be/plXVYkUZ5pI)
 <br />
 You can also check some of my previous work<br />
 ◾ [Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/serializingjson.htm) vs [protobuf](https://protobuf.dev/) : here I am comparing the times of serializing and deserializing using these libraries<br />
