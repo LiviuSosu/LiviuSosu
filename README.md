@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For the past years, I have worked on the following repositories "CareerTrack" and "CareerTrack-FrontEnd", trying to follow the clean-code best practices. It currently represents my work samples that I consider most representative to illustrate my technical profile.<br />
+For the past years, I have worked on the following repositories **CareerTrack** and **CareerTrack-FrontEnd**, trying to follow the clean-code best practices. It currently represents my work samples that I consider most representative to illustrate my technical profile.<br />
 <br />
 You may have a look at this [video](https://youtu.be/s1IuWi76eLU).
 The repositories bellow are private, but I would be happy to present you the code on a live discussion.
