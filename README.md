@@ -5,7 +5,7 @@ Welcome to my GitHub showcase of **CareerTrack** projects. This is my personal f
 **Repositories (private, demo available on request):**
 - **CareerTrack**: .NET Web API (back-end)
 - **CareerTrack-FrontEnd**: React + Redux (front-end)
-- **CareerTrack-ApiPublisher**: automatic back-end deployment ([Demo](https://www.youtube.com/watch?v=kgBb1cShU88))
+- **CareerTrack-ApiPublisher**: automatic back-end deployment *([Demo](https://www.youtube.com/watch?v=kgBb1cShU88))*
 - *[Demo](https://www.youtube.com/watch?v=s1IuWi76eLU)*: A 14-minute walkthrough of key features and architecture (private, can be shared during a technical discussion)
 
 **Technologies used:** ASP.NET web api, C#, TypeScript, SQL, JWT, Redis, React, Redux, xUnit, Jest, Postman.
