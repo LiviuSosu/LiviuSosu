@@ -1,20 +1,18 @@
-### Hi there 👋
+### CareerTrack – GitHub Showcase
 
-For the past years, I have worked on the following repositories **CareerTrack** and **CareerTrack-FrontEnd**, trying to follow the clean-code best practices. It currently represents my work samples that I consider most representative to illustrate my technical profile.<br />
+Welcome to my GitHub showcase of **CareerTrack** projects. This is my personal full-stack web portal application, structured to follow clean-code best practices. <br />
 <br />
-You may have a look at this [video](https://youtu.be/s1IuWi76eLU).
-The repositories bellow are private, but I would be happy to present you the code on a live discussion.
-<br />
-◾ CareerTrack: .NET Web api<br />
-◾ CareerTrack-FrontEnd: front-end written using React and Redux<br />
-◾ CareerTrack-ApiPublisher: additional project for automatic back-end deployment. Feel free to watch the [demo](https://youtu.be/kgBb1cShU88)
-<br />
-<br />
-You can also check some of my previous work<br />
-◾ [Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/serializingjson.htm) vs [protobuf](https://protobuf.dev/) : here I am comparing the times of serializing and deserializing using these libraries<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪️ link to the [demo](https://www.youtube.com/watch?v=KNi18e0p7zQ).<br />
-◾ Medium article about [various ways of implementing Background tasks](https://medium.com/@sosuliviu/lets-talk-about-scheduled-background-tasks-2708b9873941).
+**Repositories (private, demo available on request):**
+- **CareerTrack**: .NET Web API (back-end)
+- **CareerTrack-FrontEnd**: React + Redux (front-end)
+- **CareerTrack-ApiPublisher**: automatic back-end deployment (Demo here: (https://www.youtube.com/watch?v=kgBb1cShU88))
+- *Demo(https://www.youtube.com/watch?v=s1IuWi76eLU)*: A 14-minute walkthrough of key features and architecture (private, can be shared during a technical discussion)
 
+**Technologies used:** ASP.NET web api, C#, TypeScript, SQL, JWT, Redis, React, Redux, xUnit, Jest, Postman.
+
+**Previous work / articles:**
+- Newtonsoft.Json vs Protobuf: performance comparison ([link](https://www.youtube.com/watch?v=KNi18e0p7zQ))
+- Medium article: Implementing Background tasks ([link](https://sosuliviu.medium.com/lets-talk-about-scheduled-background-tasks-2708b9873941))
 
 <!--
 **LiviuSosu/LiviuSosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
